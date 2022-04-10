@@ -1,0 +1,33 @@
+
+20220117 21:44:22 T-Rex NVIDIA GPU miner v0.24.7  -  [Windows]
+20220117 21:44:22 r.3aed4eddcdb3
+20220117 21:44:22 
+20220117 21:44:23 
+20220117 21:44:23 NVIDIA Driver v472.19
+20220117 21:44:23 
+20220117 21:44:23 + GPU #0: [00:01.0|174e] HP GeForce MX110, 2048 MB
+20220117 21:44:23 
+20220117 21:44:23 WARN: DevFee 1% (ethash)
+20220117 21:44:23 
+20220117 21:44:23 URL : stratum+tcp://eth-eu.kryptex.network:7777
+20220117 21:44:23 USER: 0xbaef4a87e8a92ad5911bc5b0a2a02ed9867c0124/v23b952538
+20220117 21:44:23 PASS: 
+20220117 21:44:23 
+20220117 21:44:23 WARN: Built-in watchdog has been disabled!
+20220117 21:44:23 Starting on: eth-eu.kryptex.network:7777
+20220117 21:44:23 ApiServer: HTTP server started on 127.0.0.1:12000
+20220117 21:44:23 ----------------------------------------------------
+20220117 21:44:23 For control navigate to: http://127.0.0.1:12000/trex
+20220117 21:44:23 ----------------------------------------------------
+20220117 21:44:23 GPU #0: intensity 22
+20220117 21:44:23 Using protocol: stratum1.
+20220117 21:44:23 Authorizing...
+20220117 21:44:23 Authorized successfully.
+20220117 21:44:23 ethash epoch: 467, diff: 2.00 G
+20220117 21:44:24 WARN: NVML: can't get fan speed for GPU #0, not supported
+20220117 21:44:24 WARN: NVML: can't get power for GPU #0, not supported
+20220117 21:44:31 TREX: Can't find nonce with device [ID=0, GPU #0], GPU #0: not enough free memory to mine ethash at epoch 467
+20220117 21:44:31 WARN: Miner is going to shutdown...
+20220117 21:44:31 Main loop finished. Cleaning up resources...
+20220117 21:44:31 ApiServer: stopped listening on 127.0.0.1:12000
+20220117 21:44:33 T-Rex finished.
